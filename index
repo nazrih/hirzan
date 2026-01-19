@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <title>Maklumat Program</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <section class="hero">
+    <h1>Program Literasi Digital Sekolah</h1>
+    <p>Maklumat ringkas, jelas dan terus kepada isi.</p>
+  </section>
+
+  <section class="info">
+    <div>
+      <h3>Tujuan</h3>
+      <p>Meningkatkan kemahiran asas digital murid.</p>
+    </div>
+    <div>
+      <h3>Sasaran</h3>
+      <p>Murid sekolah menengah.</p>
+    </div>
+    <div>
+      <h3>Tempoh</h3>
+      <p>Januari – Jun 2026.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 SMK Contoh</p>
+  </footer>
+
+</body>
+</html>
